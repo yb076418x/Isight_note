@@ -16,5 +16,5 @@ author: Bo
 # theme: jekyll-theme-tactile      # 质感
 # theme: jekyll-theme-time-machine # 复古
 
-# 示例：用 cayman 主题
-theme: jekyll-theme-cayman
+# 示例：用 architect 主题
+theme: jekyll-theme-architect
