@@ -1,0 +1,11 @@
+# 指定Jekyll主题
+theme: minima
+
+# 自定义页面信息（可选）
+title: 我的光伏笔记  # 页面顶部显示的标题
+description: 光伏组件国标载荷规范、技术笔记分享  # 页面描述
+author: 你的名字  # 作者名
+
+# minima主题额外配置（可选）
+minima:
+  skin: dark  # 可选light/dark，切换明暗皮肤
